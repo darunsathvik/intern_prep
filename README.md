@@ -1,6 +1,6 @@
 # RTL / Architecture Internship Prep
 
-This repository contains my intensive preparation for RTL Design / Design Verification / Computer Architecture internship roles at companies like NVIDIA, AMD, and Qualcomm.
+This repository contains my intensive preparation for RTL Design / Design Verification / Computer Architecture internship roles at semiconductor based companies.
 
 ## Projects
 
@@ -27,3 +27,4 @@ This repository contains my intensive preparation for RTL Design / Design Verifi
 - Debugging and verification mindset
 
 This repo is being built as part of a 7-day intensive interview-prep sprint.
+
